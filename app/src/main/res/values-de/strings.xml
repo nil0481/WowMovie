@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WowFilm</string>
+    <string name="action_settings" translatable="true">Speisekarte</string>
+    <string name="name_movie" translatable="true">Filmtitel</string>
+    <string name="movie_details" translatable="true">Filmdetails</string>
+    <string name="lang" translatable="true">Sprache</string>
+    <string name="plot" translatable="true">Plot-Zusammenfassung</string>
+    <string name="rating" translatable="true">User Rating</string>
+    <string name="release" translatable="true">Release Date</string>
+    <string name="pref_sort_order_label" translatable="true">Kategorie anzeigen</string>
+    <string name="pref_sort_order_key" translatable="true">sortOrder</string>
+    <string name="pref_nowplaying" translatable="true">Läuft gerade</string>
+    <string name="pref_upcoming" translatable="true">Bevorstehende</string>
+
+    <string name="favorite" translatable="true">Lieblings</string>
+</resources>
